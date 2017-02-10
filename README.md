@@ -17,3 +17,4 @@ This is an HTML Template for the week 2 assignment for those students who chose 
 4. Be sure to include the `viewport` tag in all your HTML files, otherwise your media-queries won't function as expected on mobile devices.
 
 5. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.
+![screen shot 2017-02-10 at 5 00 49 pm](https://cloud.githubusercontent.com/assets/7789098/22846000/61809a20-efb3-11e6-8120-c0ab38ecac48.png)
