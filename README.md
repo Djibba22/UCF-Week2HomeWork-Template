@@ -1,5 +1,5 @@
 # UCF-Week2HomeWork-Template
-This is an HTML Template for the week 2 assignment for those students who chose to do the easier assignment in week one.
+This is an HTML Template for the week 2 assignment for those students who chose to do the easier assignment in week one. You will need to copy the Responsive-Portfolio folder and create your own repo with that.
 ### Assignment One Instructions - (No Bootstrap)
 
 1. Inside your `Responsive-Portfolio` folder, find your `styles.css` file. You will write your media queries at the bottom of `styles.css`.
